@@ -34,9 +34,9 @@ function Project4() {
             <h3>Challenges</h3>
             <p>TechInnovators Inc. had a groundbreaking portfolio of tech solutions but struggled to reach their target audience effectively. The challenges were clear:</p>
             <ul>
-              <li>Low Organic Traffic: <span>Their website wasn't attracting sufficient organic traffic, limiting their exposure to potential clients.</span></li>
-              <li>Keyword Ranking: <span>Important industry-specific keywords weren't ranking well on search engine results pages (SERPs).</span></li>
-              <li>Conversion Rate: <span>The website's conversion rate needed improvement, as visitors weren't engaging as expected.</span></li>
+              <li className='font-semibold text-lg'>Low Organic Traffic: <span className='text-gray-500 text-lg font-normal'>Their website wasn't attracting sufficient organic traffic, limiting their exposure to potential clients.</span></li>
+              <li className='font-semibold text-lg'>Keyword Ranking: <span className='text-gray-500 text-lg font-normal'>Important industry-specific keywords weren't ranking well on search engine results pages (SERPs).</span></li>
+              <li className='font-semibold text-lg'>Conversion Rate: <span className='text-gray-500 text-lg font-normal'>The website's conversion rate needed improvement, as visitors weren't engaging as expected.</span></li>
             </ul>
           </div>
           <div>
